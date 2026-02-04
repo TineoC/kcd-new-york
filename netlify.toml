@@ -1,13 +1,9 @@
 [build]
   publish = "public"
-  command = "yarn gatsby-clean && yarn build"
-[context.branch-deploy]
-  ignore = "bash ./netlify-build-ignore.sh"
+  command = "yarn install && yarn build"
 [build.environment]
-  NODE_VERSION = "20.19.4"
-  YARN_VERSION = "1.22.19"
-  YARN_FLAGS = "--no-ignore-optional"
-  NODE_OPTIONS = "--max-old-space-size=10240"
+  NODE_VERSION = "20"
+  YARN_VERSION = "1.22"
 [[headers]]
   # Define which paths this specific [[headers]] block will cover.
   for = "/*"

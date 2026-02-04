@@ -1,9 +1,10 @@
 {
   "hero": {
-    "title": "Linux Foundation Conference 2025",
-    "date": "Coming up soon!",
+    "title": "Kubernetes Community Days New York 2026",
+    "date": "June 10, 2026",
     "dateLayout": true,
-    "time": "pacific time",
+    "time": "Eastern Time",
+    "venue": "1 Liberty St, New York, NY 10006 — Convene One Liberty Plaza",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
@@ -45,7 +46,7 @@
     },
     "content": {
       "display": true,
-      "body": "Join the world’s leading developers, system architects, and open-source pioneers at Linux Foundation Event 2025, the premier annual conference hosted by the Linux Foundation. This year’s theme, “Beyond the Kernel: Scaling Trust and Transparency,” explores the evolution of Open Source as the backbone of global infrastructure—from embedded systems and AI workloads to decentralized cloud networks and edge computing. Attendees will engage with thought leaders shaping the next generation of secure, sustainable open technology.\n\nAcross multiple days of keynotes, workshops, and live demos, participants will dive into breakthrough topics including quantum-safe cryptography, reproducible builds, energy-efficient data centers, and community-driven governance models. Whether you’re maintaining a critical subsystem, deploying Kubernetes clusters at scale, or simply passionate about the open-source ethos, Linux Foundation Event 2025 offers a front-row seat to the future of collaboration."
+      "body": "Join the world’s leading developers, system architects, and open-source pioneers at KCD New York 2026 — June 10 at Convene One Liberty Plaza. The premier community conference for Kubernetes and cloud native in NYC. This year’s theme, “Beyond the Kernel: Scaling Trust and Transparency,” explores the evolution of Open Source as the backbone of global infrastructure—from embedded systems and AI workloads to decentralized cloud networks and edge computing. Attendees will engage with thought leaders shaping the next generation of secure, sustainable open technology.\n\nAcross multiple days of keynotes, workshops, and live demos, participants will dive into breakthrough topics including quantum-safe cryptography, reproducible builds, energy-efficient data centers, and community-driven governance models. Whether you’re maintaining a critical subsystem, deploying Kubernetes clusters at scale, or simply passionate about the open-source ethos, KCD New York offers a front-row seat to the community and the ecosystem."
     }
   },
   "masonry": {

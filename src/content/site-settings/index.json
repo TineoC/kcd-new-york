@@ -25,38 +25,7 @@
     "subtitle": "Please reload page shortly"
   },
   "siteMetadata": {
-    "title": "Linux Foundation Technology Conference 2025",
-    "description": "Join the Linux Foundation Technology Conference to explore open source innovation, cloud native solutions, and cutting-edge technologies shaping the future of software. Network with industry leaders, developers, and open source contributors from around the world."
-  },
-  "staticJsonFilesBuildTime": [
-    {
-      "file": "src/data/summit.json",
-      "build_time": 1761159195924
-    },
-    {
-      "file": "src/data/events.json",
-      "build_time": 1761159196192
-    },
-    {
-      "file": "src/data/events.idx.json",
-      "build_time": 1761159196193
-    },
-    {
-      "file": "src/data/speakers.json",
-      "build_time": 1761159196429
-    },
-    {
-      "file": "src/data/speakers.idx.json",
-      "build_time": 1761159196430
-    },
-    {
-      "file": "src/content/sponsors.json",
-      "build_time": 1761159196663
-    },
-    {
-      "file": "src/data/voteable-presentations.json",
-      "build_time": 1761159196910
-    }
-  ],
-  "lastBuild": 1761159196910
+    "title": "Kubernetes Community Days New York 2026",
+    "description": "Kubernetes Community Days New York 2026 — June 10, 2026 at Convene One Liberty Plaza, 1 Liberty St, New York, NY 10006. Join the community for talks, workshops, and networking."
+  }
 }

@@ -1,22 +1,38 @@
 {
-  "name": "fnevent-2025lfsb-theme",
+  "name": "kcd-new-york-2026",
   "version": "1.0.0",
   "private": true,
-  "description": "Linux Foundation  theme",
-  "author": "FNTech",
+  "description": "Kubernetes Community Days New York 2026",
+  "author": "KCD New York",
   "keywords": [
-    "gatsby"
+    "gatsby",
+    "kcd",
+    "kubernetes-community-days"
   ],
   "scripts": {
-    "develop": "gatsby develop -S -H 0.0.0.0",
+    "develop": "gatsby develop -H 0.0.0.0",
     "start": "gatsby develop",
-    "build": "NODE_ENV=production NODE_OPTIONS=--max-old-space-size=10240 cross-env node --trace-warnings node_modules/.bin/gatsby build --log-pages",
+    "build": "gatsby build",
     "serve": "gatsby serve",
     "gatsby-clean": "gatsby clean",
-    "clean": "find . -name \"node_modules\" -type d -prune -exec rm -rf '{}' + && yarn && yarn gatsby-clean"
+    "clean": "gatsby clean"
   },
   "dependencies": {
-    "@openeventkit/event-site": "2.1.36",
-    "gatsby": "^5.13.5"
+    "@mdx-js/react": "^2.2.0",
+    "bulma": "^1.0.0",
+    "gatsby": "^5.13.5",
+    "gatsby-plugin-image": "^3.13.0",
+    "gatsby-plugin-mdx": "^5.13.0",
+    "gatsby-plugin-sharp": "^5.13.0",
+    "gatsby-source-filesystem": "^5.13.0",
+    "gatsby-transformer-sharp": "^5.13.0",
+    "graphql": "^16.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0",
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.0"
   }
 }
