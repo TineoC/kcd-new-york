@@ -14,7 +14,7 @@ const TEAM = [
   { name: "Ahmed Bebars", role: "Sponsorship Lead", company: "The New York Times", linkedin: "https://www.linkedin.com/in/ahmedbebars/", image: `https://ui-avatars.com/api/?name=Ahmed+Bebars&size=400&background=${AVATAR_BG}&color=fff` },
   { name: "Cedric Clyburn", role: "Program Chair / CFP Admin", company: "Red Hat", linkedin: "https://www.linkedin.com/in/cedricclyburn/", image: `https://ui-avatars.com/api/?name=Cedric+Clyburn&size=400&background=${AVATAR_BG}&color=fff` },
   { name: "Julia Furst Morgado", role: "Marketing Lead", company: "Dash0", linkedin: "https://www.linkedin.com/in/juliafurst/", image: `https://ui-avatars.com/api/?name=Julia+Furst+Morgado&size=400&background=${AVATAR_BG}&color=fff` },
-  { name: "Kelly Revenaugh", role: "Financial Officer", company: "Testkube", linkedin: "https://www.linkedin.com/in/kellyrevenaugh/", image: `https://ui-avatars.com/api/?name=Kelly+Revenaugh&size=400&background=${AVATAR_BG}&color=fff` },
+  { name: "Kelly Revenaugh", role: "Community Experience Lead", company: "Testkube", linkedin: "https://www.linkedin.com/in/kellyrevenaugh/", image: `https://ui-avatars.com/api/?name=Kelly+Revenaugh&size=400&background=${AVATAR_BG}&color=fff` },
   { name: "Scott Rigby", role: "Logistics Lead", company: "Replicated", linkedin: "https://www.linkedin.com/in/scottrigby/", image: `https://ui-avatars.com/api/?name=Scott+Rigby&size=400&background=${AVATAR_BG}&color=fff` },
   { name: "Christopher Tineo", role: "Volunteer Coordinator", company: "Game Plan Tech", linkedin: "https://www.linkedin.com/in/christophertineo/", image: `https://ui-avatars.com/api/?name=Christopher+Tineo&size=400&background=${AVATAR_BG}&color=fff` },
 ];
